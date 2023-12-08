@@ -13,7 +13,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">](https://www.linkedin.com/in/sakibhossain22)[<img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Facebook.png">](https://www.facebook.com/Sakib.Hossain97)[<img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Twitter2.png"> </p>](https://www.instagram.com/sakib.hossain97)
+<p align="center">
+    <a href="https://www.linkedin.com/in/sakibhossain22">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">
+    </a>
+    <a href="https://www.facebook.com/Sakib.Hossain97">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Facebook.png">
+    </a>
+    <a href="https://www.instagram.com/sakib.hossain97">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Twitter2.png">
+    </a>
+</p>
 
 <br />
 
