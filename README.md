@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/tailwind.png"/>
 <br/>
 
-## :eyes: Current overview
+## :eyes: About Me
 ### 🔭 I am a Quick Learner in Web Development.
 
 ### 🌱 I’m exploring - Advanced Frontend and Backend Technologies.
