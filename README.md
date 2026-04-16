@@ -1,16 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&height=150&lines=HI+THERE!+I'M+SHAKIB+HOSSAIN;A+FULL+STACK+DEVELOPER;POSTGRESQL+EXPERT;NEXT.JS+%26+TYPESCRIPT+EXPERT" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=200&section=header&text=%20&fontSize=90&animation=fadeIn&fontColor=ffffff" width="100%" style="position: absolute;" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=EXPLORING%20THE%20FUTURE&fontSize=25&animation=glitch&fontAlignY=70" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:9b59b6&height=250&section=header&text=Shakib%20Hossain&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Specialist&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <h1 align="center">
