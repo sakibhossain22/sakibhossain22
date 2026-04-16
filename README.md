@@ -1,76 +1,70 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/banner.png" alt="Sakib's Banner" />
+  <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/banner.png" alt="Sakib's Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Sakib Hossain 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sakib+Hossain;Full+Stack+Developer;Next.js+%26+TS+Expert;AI+Solutions+Architect" alt="Typing SVG" />
+</h1>
+
+---
+
+### 📊 **Performance & Ecosystem Analysis**
 <p align="center">
-  <strong>Full Stack Developer | Next.js & TypeScript Expert | AI Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakibhossain22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sakib01181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🔭 About Me
-- [cite_start]🚀 **Full Stack Developer** specializing in building scalable, high-performance web applications using **Next.js** and **TypeScript**[cite: 4, 6].
-- [cite_start]🛠️ Currently focused on mastering **Cloud Infrastructure (AWS)** and **Containerization (Docker)**[cite: 4, 7].
-- [cite_start]🧠 Deeply interested in **AI integration**, having built AI-powered features for platforms like **Cinemay** and **MealMate**[cite: 13, 21].
-- [cite_start]🎓 BBS Degree student at **Sherpur Government College**[cite: 30].
-
----
-
-### 💻 Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-#### 🎬 [Cinemay](https://github.com/sakibhossain22/Cinemay-Frontend) - AI-Driven Movie Marketplace
-- [cite_start]Developed an AI-powered movie discovery platform with **Stripe** payment integration[cite: 10, 14].
-- [cite_start]Implemented **Next.js Middleware** for secure access control and digital ownership[cite: 14].
-- [cite_start]**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Groq AI[cite: 16].
-
-#### 🍱 [MealMate](https://github.com/sakibhossain22/Meal-Mate-Frontend) - AI Food Commerce Platform
-- [cite_start]Built a multi-role architecture for Customers, Vendors, and Admins[cite: 22].
-- [cite_start]Features an **AI Sommelier** for personalized meal suggestions and reviews[cite: 18, 21].
-- [cite_start]**Stack:** Next.js, Node.js, Express, PostgreSQL, Prisma[cite: 24].
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibhossain22&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&icon_color=bb9af7&text_color=c0caf5" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true&background=1e1e2e&stroke=9b59b6&ring=bb9af7&fire=ff9e64&currStreakLabel=9b59b6" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5" height="165" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-- I love solving complex problems and creating intricate origami designs! 📄✨
+### 🚀 **Technical Arsenal**
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,redux,nodejs,express,postgres,prisma,mongodb,aws,docker,nginx,github,figma,firebase,postman" /></a>
+</p>
+
+---
+
+### 📂 **Featured Architecture**
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 Cinemay</h3>
+      <p align="center"><img src="https://img.shields.io/badge/AI--Marketplace-9B59B6?style=for-the-badge" /></p>
+      <ul>
+        <li><b>AI Assistant:</b> Real-time movie concierge using Groq.</li>
+        <li><b>Ownership:</b> Secure movie licensing via Stripe.</li>
+        <li><b>Stack:</b> Next.js 15, TypeScript, Prisma, PostgreSQL.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sakibhossain22/Cinemay-Frontend"><b>[ View Code ]</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍱 MealMate</h3>
+      <p align="center"><img src="https://img.shields.io/badge/AI--FoodCommerce-339933?style=for-the-badge" /></p>
+      <ul>
+        <li><b>AI Sommelier:</b> Dynamic reviews & menu descriptions.</li>
+        <li><b>Scalability:</b> Multi-role vendor architecture.</li>
+        <li><b>Stack:</b> Node.js, Next.js, Prisma, PostgreSQL.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sakibhossain22/Meal-Mate-Frontend"><b>[ View Code ]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☁️ **Cloud & DevOps Prowess**
+```yaml
+Infrastructure:
+  Containerization: [Docker, Docker-Compose]
+  Web_Server: [Nginx Reverse Proxy]
+  Hosting: [AWS EC2, Vercel, Firebase]
+  CI_CD: [GitHub Actions]
