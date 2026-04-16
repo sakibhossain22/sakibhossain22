@@ -7,17 +7,23 @@
 </h1>
 
 ---
-
 ### 📊 **Performance & Ecosystem Analysis**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibhossain22&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&icon_color=bb9af7&text_color=c0caf5" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true&background=1e1e2e&stroke=9b59b6&ring=bb9af7&fire=ff9e64&currStreakLabel=9b59b6" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5" height="165" />
-</p>
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sakibhossain22&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&icon_color=bb9af7&text_color=c0caf5" height="190" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true&background=1e1e2e&stroke=9b59b6&ring=bb9af7&fire=ff9e64&currStreakLabel=9b59b6" height="190" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5&width=100%" width="100%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🚀 **Technical Arsenal**
