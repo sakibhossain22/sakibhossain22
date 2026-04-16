@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:9b59b6&height=250&section=header&text=Shakib%20Hossain&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:9b59b6&height=280&section=header&text=Shakib%20Hossain&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shakib+Hossain;Full+Stack+Developer;Next.js+%26+TS+Expert;AI+Solutions+Architect" alt="Typing SVG" />
+<h1 align="center" style="position: absolute; width: 100%; top: 120px; z-index: 1;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shakib+Hossain;Full+Stack+Developer;Next.js+%26+TS+Expert;AI+Solutions+Architect" alt="Typing SVG" />
 </h1>
 
 ---
