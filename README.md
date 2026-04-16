@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5&width=100%" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5&width=100%" width="100%" height="300"  />
     </td>
   </tr>
 </table>
