@@ -1,73 +1,76 @@
-<a href="https://sakib-portfolio22.web.app/">
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/banner.png" />
-</a>
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true&card_width=496" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/banner.png" alt="Sakib's Banner" />
 </p>
 
-## :mailbox: Reach me out
-
-<br />
-
+<h1 align="center">Hi, I'm Sakib Hossain 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sakibhossain22">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">
-    </a>
-    <a href="https://www.facebook.com/Sakib.Hossain97">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Facebook.png">
-    </a>
-    <a href="https://www.instagram.com/sakib.hossain97">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Twitter2.png">
-    </a>
+  <strong>Full Stack Developer | Next.js & TypeScript Expert | AI Enthusiast</strong>
 </p>
 
-<br />
-
-## :computer: Technologies that I know
-
-<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/HTML.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/css.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/express.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/JavaScript.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/firebase.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/mongo.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/node.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/react.png"/>
-<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/tailwind.png"/>
-<br/>
+  <a href="https://www.linkedin.com/in/sakibhossain22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sakib01181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## :eyes: About Me
-### 🔭 I am a Quick Learner in Web Development.
+---
 
-### 🌱 I’m exploring - Advanced Frontend and Backend Technologies.
+### 🔭 About Me
+- [cite_start]🚀 **Full Stack Developer** specializing in building scalable, high-performance web applications using **Next.js** and **TypeScript**[cite: 4, 6].
+- [cite_start]🛠️ Currently focused on mastering **Cloud Infrastructure (AWS)** and **Containerization (Docker)**[cite: 4, 7].
+- [cite_start]🧠 Deeply interested in **AI integration**, having built AI-powered features for platforms like **Cinemay** and **MealMate**[cite: 13, 21].
+- [cite_start]🎓 BBS Degree student at **Sherpur Government College**[cite: 30].
 
-### 👯 I’m looking - To collaborate on open source web development projects.
+---
 
-### ⚡ Fun fact - I love creating intricate origami designs
+### 💻 Technologies & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  
+  <br/>
 
-# My Work Overview
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-Welcome to my web application project! My All project utilizes React.js for the frontend, Express.js for the backend, and MongoDB as the database. Firebase is employed for user authentication, and Tailwind CSS is used for styling.
+  <br/>
 
-## Technologies Used
-- **Frontend:** React.js
-- **Backend:** Express.js
-- **Database:** MongoDB
-- **Authentication:** Firebase
-- **Styling:** Tailwind CSS
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
-## Project Structure
+---
 
-The project is organized into folders:
-- **`/frontend`:** React.js frontend code.
-- **`/backend`:** Express.js backend code.
-- **`/database`:** MongoDB configurations and schemas.
-- **`/public`:** Public assets.
-- **`/src`:** Source code for both frontend and backend.
+### 🌟 Featured Projects
+
+#### 🎬 [Cinemay](https://github.com/sakibhossain22/Cinemay-Frontend) - AI-Driven Movie Marketplace
+- [cite_start]Developed an AI-powered movie discovery platform with **Stripe** payment integration[cite: 10, 14].
+- [cite_start]Implemented **Next.js Middleware** for secure access control and digital ownership[cite: 14].
+- [cite_start]**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Groq AI[cite: 16].
+
+#### 🍱 [MealMate](https://github.com/sakibhossain22/Meal-Mate-Frontend) - AI Food Commerce Platform
+- [cite_start]Built a multi-role architecture for Customers, Vendors, and Admins[cite: 22].
+- [cite_start]Features an **AI Sommelier** for personalized meal suggestions and reviews[cite: 18, 21].
+- [cite_start]**Stack:** Next.js, Node.js, Express, PostgreSQL, Prisma[cite: 24].
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibhossain22&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple" alt="Top Langs" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+- I love solving complex problems and creating intricate origami designs! 📄✨
