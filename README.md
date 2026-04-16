@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sakib+Hossain;Full+Stack+Developer;Next.js+%26+TS+Expert;AI+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shakib+Hossain;Full+Stack+Developer;Next.js+%26+TS+Expert;AI+Solutions+Architect" alt="Typing SVG" />
 </h1>
 
 ---
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5&width=100%" width="100%" height="300"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain22&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=1e1e2e&title_color=9b59b6&text_color=c0caf5&width=100%" width="100%" height="200"  />
     </td>
   </tr>
 </table>
