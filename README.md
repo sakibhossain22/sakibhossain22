@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/banner.png" alt="Sakib's Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:9b59b6&height=250&section=header&text=Shakib%20Hossain&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Specialist&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <h1 align="center">
